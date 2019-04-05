@@ -21,8 +21,11 @@ To test the simulation reasonably similar to the real world, we used the numbers
 
 ![screenshot](https://github.com/choijaewon959/Network-Virality/blob/master/Simulation_screenshot.PNG)
 red: a person who has shared the post
+
 green: a person who has seen the post, so already decided whether to share the post or not.
+
 blue: a person who has not seen the post yet.
+
 * different shapes of node represent the different topology.
 
 # Flow of our model
